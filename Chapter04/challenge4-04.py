@@ -15,5 +15,5 @@ def numberB(numY):
     """
     return numY * 4
 numberC = numberA(6)
-print(numberB(numberC))[int(x) for x in input().split()]
+print(numberB(numberC))
 
